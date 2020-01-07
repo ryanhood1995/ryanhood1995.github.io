@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /always-on-projects/
+permalink: /always-on-programs/
 title: "'Always On' Programs"
 author_profile: true
 header:
